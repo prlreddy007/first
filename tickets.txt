@@ -1,0 +1,60 @@
+Stories
+==========================================================================================
+PAC-3230 HTML - calendar matrix adjustments (PSD PAC-755)
+PAC-3231 Dev: reactivate calendar matrix (s55)
+PAC-4010 Eliminate the first "availableFare" reuqest, if the user has selected "+/- 1 day"
+PAC-4036 Disable calendar matrix +/- days for more than 2 legs (s55)
+PAC-4041 Disable Allianz, via, time, for calendar matrix +/- days search (s55)
+PAC-3331 Dev - allow to enter up to three 3-letter-codes in origin and destination field(s) on pacKit search
+PAC-2216 Dev: Change format of "contact address abroad" in APIS fields [SCE depend. PAC-3542 ok]
+7 assigned
+=====================================
+PAC-3995 Disable FFN icon in case no FFN programs are available
+PAC-4073 HTML task to work on 3 three letter airport codes
+PAC-3901 HTML - adjustments on search mask
+3 yet to assign
+
+Bugs
+==========================================================================================
+PAC-4126
+PAC-4119 "Via" became mandatory for basic search (Spanish version only) - pls. fix
+
+2 assigned
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PAC-4006 Reprice button is not disabling when reprice table is opened
+PAC-3752 Yellow Mix is displaying in icons list instead of 0 PC
+PAC-3808 red highlight the manadatory fields in a rule when trying to save incomplete rule
+PAC-3893 Search form is submitting twice when click on "Enter" in the keyboard
+PAC-4040 Tooltip border is slightlly broken
+PAC-4025 HTML - Display of alert message in calendar matrix and in results accordion
+
+6 yet to assign
+
+Vamsi
+==========================================================================================
+Stories
+PAC-3880 Add 3LC to techn. stopp information in flight segment display of pacKit / OM
+PAC-4037 DEV - activate creating offers & registration from confirmation page and ordermanager
+PAC-4077 DEV - activate creating itineraries from confirmation page and ordermanager
+PAC-3819 Dev - flow adjustment if user returns from payment to additional services page and makes a selection
+PAC-3879 Enhance pacKit/OM segment display by adding apt to technical stop
+PAC-3592 SCE Dev - (PUT and) Delete request for AncillaryServices in OM
+(6 yet to assign)
+
+bugs
+==========================================================================================
+PAC-4064/PAC-4072 Error handling is not done in calendar matrix when 502 error occured.
+(1 assigned)
+++++++++++++++++++++++++++++++++++
+PAC-3991 Price details section is messed up due to max pax length
+PAC-4048 First option in the drop down field is disappearing when mouse over on it.
+PAC-3620 TKTL filter is not working for flown.
+PAC-3987 Dev - delete/remove seats from PNR [API ready, PAC-2423]
+PAC-1734 Cabin class selection via tab key or up/down arrow keys
+PAC-3964 Seats III - selecting seats in several steps (segment by segment) does not work
+PAC-4066 In case of seats are already added to a segment, should not allow to select other seats as edit service is not available.
+PAC-4008 DEV - AirPlus is not working if there are enterd spaces in the additional data
+PAC-3737 SCE Dev - Getting same ssr code for same airline in extras service
+
+
+(9 yet to assign)
